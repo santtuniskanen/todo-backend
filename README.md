@@ -1,3 +1,3 @@
-# Golang Backend - To Do -application
+# Golang Backend / To Do - application
 
-This repository contains the backend for my To Do -application.
+This repository contains the backend for my To Do - application.
